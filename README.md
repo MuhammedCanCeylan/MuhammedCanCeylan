@@ -13,3 +13,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedcanceylan&show_icons=true&theme=dark&locale=en&layout=compact" alt="muhammedcanceylan" ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedcanceylan&show_icons=true&theme=dark&locale=en" alt="muhammedcanceylan" /></p>ㅤㅤㅤㅤㅤㅤㅤㅤ
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedcanceylan&theme=dark" alt="muhammedcanceylan" /></p>
+![Snake animation](https://raw.githubusercontent.com/MuhammedCanCeylan/MuhammedCanCeylan/output/github-snake-dark.svg)

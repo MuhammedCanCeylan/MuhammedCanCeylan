@@ -1,33 +1,54 @@
 <h1 align="center">Hi 👋, I'm Muhammed Can Ceylan</h1>
-<h3 align="center">A passionate Computer Engineering student at Bartın University</h3>
+<h3 align="center">Computer Engineering Student | Software Developer</h3>
 
 <p align="center">
-  With my passion for software development and my determination to learn, I have gained proficiency in Java, C++, C#, Python, PHP, HTML, and JavaScript. By developing various projects, I am constantly improving my problem-solving and algorithm development skills. My goal is to create innovative solutions using technology and continuously improve myself.
+  Passionate Computer Engineering student focused on building robust backend systems, automation tools, cross-platform software, and interactive web applications. Experienced in object-oriented programming, data structures, and developing end-to-end full-stack solutions.
 </p>
 
-- 🔭 I’m currently working on **a game and song-themed English learning platform**
-- 💬 Ask me about **Java, Python, PHP, HTML, and JavaScript**
-- 📫 How to reach me: **ceylanmuhammedcan@hotmail.com**
-- ⚡ Fun fact: **I can swim for up to 6 hours straight and dive 15 meters deep!**
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> 
+<p align="center">
+  <a href="mailto:ceylanmuhammedcan@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-ceylanmuhammedcan%40hotmail.com-blue?style=flat-square&logo=microsoftoutlook" alt="Email" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Istanbul%20%2F%20Bartin%2C%20TR-lightgrey?style=flat-square" alt="Location" />
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
+---
+
+### 🚀 About Me
+- 🔭 **Currently Building:** An interactive game and song-themed English learning platform.
+- 💡 **Core Interests:** Software Architecture, Algorithm Optimization, Web Technologies & System Automation.
+- 💬 **Ask Me About:** Java (Swing/OOP), Python (Scripting/ML), PHP, TypeScript, and Full-Stack Web Development.
+- ⚡ **Fun Fact:** Long-distance swimmer & freediver.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages:**
 <p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=MuhammedCanCeylan&show_icons=true&theme=tokyonight" alt="Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MuhammedCanCeylan&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://skillicons.dev/icons?i=java,python,cs,cpp,php,js,ts,kotlin,html,css" alt="Languages" />
 </p>
+
+**Frameworks, Libraries & Tools:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,linux,unity,bash" alt="Tools" />
+</p>
+
+---
+
+### 🌟 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[MotoWeather](https://github.com/MuhammedCanCeylan/MotoWeather)** | Weather dashboard strictly designed for motorcycle riders. | `Java` `API Integration` |
+| **[qr-motor](https://github.com/MuhammedCanCeylan/qr-motor)** | Web application for quick vehicle identification & QR access. | `JavaScript` `HTML/CSS` |
+| **[ShadowTrade](https://github.com/MuhammedCanCeylan/ShadowTrade-Anonim-Pazar-Yeri)** | Secure anonymous marketplace platform prototype. | `PHP` `MySQL` `Backend` |
+| **[Java Password Generator](https://github.com/MuhammedCanCeylan/Java-Simple-Password-Generator-GUI)** | Customizable password generator desktop application with Swing GUI. | `Java` `Swing` `GUI` |
+| **[Monopoly ML](https://github.com/MuhammedCanCeylan/Monopoly-Machine-Learning)** | Simulation and decision-making model using machine learning principles. | `Python` `Data Science` |
+
+---
+
+### 🐍 Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MuhammedCanCeylan/MuhammedCanCeylan/output/github-snake-dark.svg" alt="Snake animation" />

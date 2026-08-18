@@ -25,6 +25,10 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MuhammedCanCeylan&show_icons=true&theme=tokyonight" alt="MuhammedCanCeylan Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MuhammedCanCeylan&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=MuhammedCanCeylan&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MuhammedCanCeylan&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MuhammedCanCeylan/MuhammedCanCeylan/output/github-snake-dark.svg" alt="Snake animation" />
 </p>

@@ -15,9 +15,10 @@
 ---
 
 ### 🚀 About Me
-- 🔭 **Currently Building:** An interactive game and song-themed English learning platform.
-- 💡 **Core Interests:** Software Architecture, Algorithm Optimization, Web Technologies & System Automation.
-- 💬 **Ask Me About:** Java (Swing/OOP), Python (Scripting/ML), PHP, TypeScript, and Full-Stack Web Development.
+
+- 🔭 **Currently Building:** An end-to-end language-learning ecosystem that turns YouTube videos and vocabulary into interactive, game-based study experiences.
+- 💡 **Core Interests:** Software Architecture, Cross-Platform Desktop Apps, Algorithm Optimization, Web Technologies & System Automation.
+- 💬 **Ask Me About:** Java (Swing/OOP), Python (Scripting/ML), PHP, TypeScript, Tauri/Rust, and Full-Stack Web Development.
 - ⚡ **Fun Fact:** Long-distance swimmer & freediver.
 
 ---
@@ -26,12 +27,12 @@
 
 **Languages:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,cs,cpp,php,js,ts,kotlin,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=java,python,cs,cpp,php,js,ts,kotlin,html,css,rust" alt="Languages" />
 </p>
 
 **Frameworks, Libraries & Tools:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,linux,unity,bash" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=react,tauri,mysql,git,github,linux,unity,bash" alt="Tools" />
 </p>
 
 ---
@@ -40,11 +41,13 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[MotoWeather](https://github.com/MuhammedCanCeylan/MotoWeather)** | Weather dashboard strictly designed for motorcycle riders. | `Java` `API Integration` |
-| **[qr-motor](https://github.com/MuhammedCanCeylan/qr-motor)** | Web application for quick vehicle identification & QR access. | `JavaScript` `HTML/CSS` |
-| **[ShadowTrade](https://github.com/MuhammedCanCeylan/ShadowTrade-Anonim-Pazar-Yeri)** | Secure anonymous marketplace platform prototype. | `PHP` `MySQL` `Backend` |
-| **[Java Password Generator](https://github.com/MuhammedCanCeylan/Java-Simple-Password-Generator-GUI)** | Customizable password generator desktop application with Swing GUI. | `Java` `Swing` `GUI` |
-| **[Monopoly ML](https://github.com/MuhammedCanCeylan/Monopoly-Machine-Learning)** | Simulation and decision-making model using machine learning principles. | `Python` `Data Science` |
+| **[yt-vocab-studio](https://github.com/MuhammedCanCeylan/yt-vocab-studio)** | YouTube'dan kelimeye, kelimeden oyuna, oyundan cebine — YouTube video transkript madenciliği, kitap okuma asistanı, retro arcade ve SRS destekli uçtan uca bir dil öğrenme ekosistemi. | `Python` `Flask` `JavaScript` `WebGL` |
+| **[quizwet-clone-pro](https://github.com/MuhammedCanCeylan/quizwet-clone-pro)** | Modern, hızlı, %100 çevrimdışı masaüstü öğrenme platformu. Kelime ezberlemeyi uzay temalı bir arcade oyunuyla birleştiren, Tauri tabanlı yeni nesil bir kelime hazinesi stüdyosu. | `Tauri` `React` `TypeScript` `Rust` |
+| **[MotoWeather](https://github.com/MuhammedCanCeylan/MotoWeather)** | The Ultimate Rider's Companion — motosiklet sürücülerine özel gerçek zamanlı risk analizi, kişiselleştirilmiş sürücü profilleri ve özel astro-takip arayüzüyle native Android hava durumu uygulaması. | `Kotlin` `Android` `API Integration` |
+| **[ShadowTrade](https://github.com/MuhammedCanCeylan/ShadowTrade-Anonim-Pazar-Yeri)** | Alıcı ve satıcıların aracı kurumlara ihtiyaç duymadan, gizlilik odaklı ve kripto para tabanlı (XMR/BTC) işlemler gerçekleştirebilmesi amacıyla tasarlanmış bir anonim pazar yeri konsept projesi. | `PHP` `MySQL` `Backend` |
 
 ---
 
+<p align="center">
+  <em>Always learning, always building.</em>
+</p>

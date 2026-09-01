@@ -87,21 +87,3 @@ A privacy-focused anonymous marketplace concept built around direct cryptocurren
 
 **Stack:** `PHP` `MySQL` `Backend`
 
----
-
-## GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammedCanCeylan&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedCanCeylan&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedCanCeylan&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <sub>Building software, learning continuously, and turning ideas into working systems.</sub>
-</p>

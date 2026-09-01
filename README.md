@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineering Student | Software Developer</h3>
 
 <p align="center">
-  Passionate Computer Engineering student focused on building robust backend systems, automation tools, cross-platform software, and interactive web applications. Experienced in object-oriented programming, data structures, and developing end-to-end full-stack solutions.
+  Computer Engineering student focused on building robust backend systems, automation tools, cross-platform desktop software, and interactive web applications. Experienced in object-oriented programming, data structures, and end-to-end full-stack development.
 </p>
 
 <p align="center">
@@ -19,6 +19,7 @@
 - 🔭 **Currently Building:** An end-to-end language-learning ecosystem that turns YouTube videos and vocabulary into interactive, game-based study experiences.
 - 💡 **Core Interests:** Software Architecture, Cross-Platform Desktop Apps, Algorithm Optimization, Web Technologies & System Automation.
 - 💬 **Ask Me About:** Java (Swing/OOP), Python (Scripting/ML), PHP, TypeScript, Tauri/Rust, and Full-Stack Web Development.
+- 🌱 **Currently Learning:** Rust and systems-level programming for cross-platform desktop apps.
 - ⚡ **Fun Fact:** Long-distance swimmer & freediver.
 
 ---
@@ -41,10 +42,23 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[yt-vocab-studio](https://github.com/MuhammedCanCeylan/yt-vocab-studio)** | YouTube'dan kelimeye, kelimeden oyuna, oyundan cebine — YouTube video transkript madenciliği, kitap okuma asistanı, retro arcade ve SRS destekli uçtan uca bir dil öğrenme ekosistemi. | `Python` `Flask` `JavaScript` `WebGL` |
-| **[quizwet-clone-pro](https://github.com/MuhammedCanCeylan/quizwet-clone-pro)** | Modern, hızlı, %100 çevrimdışı masaüstü öğrenme platformu. Kelime ezberlemeyi uzay temalı bir arcade oyunuyla birleştiren, Tauri tabanlı yeni nesil bir kelime hazinesi stüdyosu. | `Tauri` `React` `TypeScript` `Rust` |
-| **[MotoWeather](https://github.com/MuhammedCanCeylan/MotoWeather)** | The Ultimate Rider's Companion — motosiklet sürücülerine özel gerçek zamanlı risk analizi, kişiselleştirilmiş sürücü profilleri ve özel astro-takip arayüzüyle native Android hava durumu uygulaması. | `Kotlin` `Android` `API Integration` |
-| **[ShadowTrade](https://github.com/MuhammedCanCeylan/ShadowTrade-Anonim-Pazar-Yeri)** | Alıcı ve satıcıların aracı kurumlara ihtiyaç duymadan, gizlilik odaklı ve kripto para tabanlı (XMR/BTC) işlemler gerçekleştirebilmesi amacıyla tasarlanmış bir anonim pazar yeri konsept projesi. | `PHP` `MySQL` `Backend` |
+| **[yt-vocab-studio](https://github.com/MuhammedCanCeylan/yt-vocab-studio)** | An end-to-end language-learning ecosystem: mines vocabulary from YouTube transcripts, offers a reading assistant, retro arcade mini-games, and SRS-based study modes. From video, to vocabulary, to game, to your pocket. | `Python` `Flask` `JavaScript` `WebGL` |
+| **[quizwet-clone-pro](https://github.com/MuhammedCanCeylan/quizwet-clone-pro)** | A modern, fast, 100% offline desktop learning platform. A next-generation vocabulary studio built on Tauri that combines flashcard-style memorization with a space-themed arcade shooter. | `Tauri` `React` `TypeScript` `Rust` |
+| **[MotoWeather](https://github.com/MuhammedCanCeylan/MotoWeather)** | The Ultimate Rider's Companion — a native Android weather intelligence app built exclusively for motorcyclists, featuring real-time risk analysis, personalized rider profiles, and a custom astro-tracking UI. | `Kotlin` `Android` `API Integration` |
+| **[ShadowTrade](https://github.com/MuhammedCanCeylan/ShadowTrade-Anonim-Pazar-Yeri)** | A privacy-first anonymous marketplace concept enabling buyers and sellers to transact directly in cryptocurrency (XMR/BTC) without relying on intermediaries. | `PHP` `MySQL` `Backend` |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammedCanCeylan&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedCanCeylan&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedCanCeylan&hide_border=true&theme=default" alt="GitHub Streak" />
+</p>
 
 ---
 
